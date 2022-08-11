@@ -7,7 +7,7 @@
 <h3 align="center">Full-Stack Developer ✔, Talented Student at Microverse.org 🌟.
 </h3>
 
-<!--
+<Br>
 **SurafelGetachewT/SurafelGetachewT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -23,5 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: **He/Him**
 - ⚡ Real Love: Investing on myself, Mentoring my juniors, Taking personal development trainings, Watching football.
 - 🥅 My main goal after completing the program is to be able to secure a full-stack developer job position, as well as collaborate and contribute to open source projects, and assist other students in Microverse as a volunteer mentor.
-- ⚡ Fun fact: I will never stop learning
--->
+- ⚡ Fun fact: I will never stop learning.
