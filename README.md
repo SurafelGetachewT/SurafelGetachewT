@@ -1,16 +1,27 @@
 ### Hi there 👋
 
+<h1 align="center">  
+  <img src="./ressources/Earth.gif" width="24px">
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  <img src="./ressources/Hi.gif" width="40px" />, I'm Surafel Getachew 👨‍💻</h1>
+<h3 align="center">Full-Stack Developer ✔, Talented Student at Microverse.org 🌟.
+</h3>
+
 <!--
 **SurafelGetachewT/SurafelGetachewT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 A self-taught full-stack developer from **Ethiopia**.
+- 👨‍💻 I spend my time learning how to code by watching tutorials and reading materials about **Web development** and **Android development**.
+- 🔭 I’m currently working on **Web development**, **Mobile app development** and **ML projects**.
+- 🌱 I’m currently learning full stack development on **microverse** and from **udemy** and **youtube**.
+- 👯 I’m looking to collaborate on **web development projects**.
+- 🤔 I’m looking for **great remote jobs!**.
+- 💬 Ask me about **Web development**, **Mobile app development** and **Deep learning algorihms**.
+- 📫 How to reach me: <a href="suragetch@gmail.com">Send an Email</a>.
+- 😄 Pronouns: **He/Him**
+- ⚡ Real Love: Investing on myself, Mentoring my juniors, Taking personal development trainings, Watching football.
+- 🥅 My main goal after completing the program is to be able to secure a full-stack developer job position, as well as collaborate and contribute to open source projects, and assist other students in Microverse as a volunteer mentor.
+- ⚡ Fun fact: I will never stop learning
 -->
