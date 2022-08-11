@@ -8,9 +8,7 @@
 </h3>
 
 <Br>
-**SurafelGetachewT/SurafelGetachewT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h1>About Me! 😎</h1>
 
 - 🌱 A self-taught full-stack developer from **Ethiopia**.
 - 👨‍💻 I spend my time learning how to code by watching tutorials and reading materials about **Web development** and **Android development**.
