@@ -2,7 +2,7 @@
 
 <h1 align="center">  
   <img src="./ressources/Earth.gif" width="24px">
-  𝐇𝐞𝐥𝐥𝐨, World of Developers!      I'm Surafel Getachew 👨‍💻</h1>
+  𝐇𝐞𝐥𝐥𝐨, I'm Surafel Getachew 👨‍💻</h1>
 <h3 align="center">Full-Stack Developer ✔, Talented Student at Microverse.org 🌟.
 </h3>
 
