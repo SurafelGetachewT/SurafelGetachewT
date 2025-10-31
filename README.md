@@ -3,7 +3,7 @@
 <h1 align="center">  
   <img src="./ressources/Earth.gif" width="24px">
   I'm Surafel Getachew 👨‍💻</h1>
-<h3 align="center">Lecture, Data Analyst and Experienced Customer Support ✔, Full-Stack Developer ✔, I was Talented Student at Microverse.org 🌟.
+<h3 align="center">Lecturer, Data Analyst and Experienced Customer Support ✔, Full-Stack Developer ✔, I was Talented Student at Microverse.org 🌟.
 </h3>
 
 <Br>
