@@ -1,21 +1,97 @@
-### Hi there 👋
+# Hi, I'm Surafel Getachew
 
-<h1 align="center">  
-  <img src="./ressources/Earth.gif" width="24px">
-  I'm Surafel Getachew 👨‍💻</h1>
-<h3 align="center">Lecturer, Data Analyst and Experienced Customer Support ✔, Full-Stack Developer ✔, I was Talented Student at Microverse.org 🌟.
-</h3>
+## Technical Customer Support Specialist | Crypto, SaaS, Fintech & P2P Support
 
-<Br>
-<h1>About Me! 😎</h1>
+I am a Customer Support and Technical Support professional with experience supporting users across crypto exchanges, SaaS platforms, digital services, telecom systems, and online work platforms.
 
-- 🌱 An Experienced Lecturer, Data Analyst, Customer Support and Technical Support Engineer, **Ethiopia**.
-- 👨‍💻 I spend my time learning how to code by watching tutorials and reading materials about **Customer Support** **Web development** and **Android development**.
-- 🔭 I’m currently working as **Lecturer**, **Data Analyst**, **Customer Support**, and participate on **Web development**, **Mobile app development** and **ML projects**.
-- 👯 I’m looking to **Remote Teaching, Data Analyst, or Customer Support Jobs**
-- 🤔 I’m looking for **great remote jobs!**.
-- 💬 Ask me about **Crypto**, **Finance**, **Data Analysis**, **Customer Support**, **Technical Support**, **Web development**, **Mobile app development** and **Deep learning algorihms**.
-- 📫 How to reach me: <a href="suragetch@gmail.com">Send an Email</a>.
-- 😄 Pronouns: **He/Him**
-- ⚡ Real Love: Investing in myself, Mentoring my juniors, Taking personal development trainings, Watching football.
-- ⚡ Fun fact: I will never stop learning.
+My background combines customer communication, technical troubleshooting, ticket handling, crypto/P2P support, user education, escalation handling, and support documentation.
+
+I help users resolve account, payment, transaction, onboarding, technical, and platform-related issues through clear communication, structured troubleshooting, and accurate escalation.
+
+---
+
+## Core Support Skills
+
+- Customer Support
+- Technical Support
+- SaaS Support
+- Crypto Exchange Support
+- P2P Merchant Support
+- Fintech Support
+- Live Chat Support
+- Email Support
+- Ticket Handling
+- Troubleshooting
+- Bug Reporting
+- Escalation Handling
+- Knowledge Base Writing
+- Customer Education
+- Support Operations
+
+---
+
+## Tools & Platforms
+
+Zendesk | Freshdesk | Intercom | HaoDesk | Slack | Discord | Telegram | Notion | Google Workspace | Microsoft Teams | TradingView | GitHub
+
+---
+
+## Support Areas
+
+- Account and login issues
+- Payment and billing support
+- Crypto deposits and withdrawals
+- P2P dispute handling
+- KYC and account verification
+- Technical troubleshooting
+- Bug documentation and escalation
+- Customer onboarding
+- Community support
+- Help center documentation
+
+---
+
+## Featured Support Portfolio
+
+### Support Portfolio Website
+
+A professional website presenting my customer support and technical support profile, including my experience, tools, ticket examples, troubleshooting workflows, crypto/P2P support knowledge, and support documentation projects.
+
+### Customer Support Ticket Examples
+
+Sample customer support responses for login issues, payment delays, refund requests, KYC verification delays, crypto deposits, withdrawal delays, P2P disputes, and angry customer situations.
+
+### Knowledge Base Articles
+
+User-friendly help center articles written for SaaS, fintech, crypto, and digital platform users.
+
+### Technical Support Workflows
+
+Step-by-step troubleshooting workflows for account issues, payment issues, technical bugs, crypto deposits, withdrawals, and escalation cases.
+
+### Crypto & P2P Support Case Studies
+
+Practical support scenarios related to P2P disputes, payment verification, wrong network deposits, suspicious transactions, and customer education.
+
+---
+
+## Career Focus
+
+I am currently focused on remote roles in:
+
+- Customer Support
+- Technical Support
+- Product Support
+- SaaS Support
+- Crypto Support
+- Fintech Support
+- P2P Operations Support
+- Support Operations
+
+---
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/surafel-getachew-2a6696256/  
+GitHub: https://github.com/SurafelGetachewT  
+Portfolio Website: Coming soon
