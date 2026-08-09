@@ -92,6 +92,6 @@ I am currently focused on remote roles in:
 
 ## Contact
 
-LinkedIn: [[https://www.linkedin.com/in/surafel-getachew-2a6696256/ ](https://www.linkedin.com/in/surafelgetachewtesfaye/) ](https://www.linkedin.com/in/surafelgetachewtesfaye/)
+LinkedIn: https://www.linkedin.com/in/surafelgetachewtesfaye/
 GitHub: https://github.com/SurafelGetachewT  
-Portfolio Website: Coming soon
+Portfolio Website: https://surafelgetachew.com/
