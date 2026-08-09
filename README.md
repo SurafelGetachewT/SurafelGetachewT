@@ -1,97 +1,62 @@
-# Hi, I'm Surafel Getachew
+# Surafel Getachew
 
-## Technical Customer Support Specialist | Crypto, SaaS, Fintech & P2P Support
+Technical Customer Support Specialist focused on telecom, networking, remote-user support, SaaS, and fintech.
 
-I am a Customer Support and Technical Support professional with experience supporting users across crypto exchanges, SaaS platforms, digital services, telecom systems, and online work platforms.
+I bring 4+ years of experience across telecommunications, internet services, SaaS, and fintech. My work combines customer communication, structured troubleshooting, incident investigation, escalation, technical documentation, and customer education.
 
-My background combines customer communication, technical troubleshooting, ticket handling, crypto/P2P support, user education, escalation handling, and support documentation.
+## Professional focus
 
-I help users resolve account, payment, transaction, onboarding, technical, and platform-related issues through clear communication, structured troubleshooting, and accurate escalation.
+- Technical Customer Support
+- Network Troubleshooting
+- Remote User Support
+- SaaS and Fintech Support
+- Incident Investigation and Escalation
+- Technical Documentation
 
----
+## Professional experience
 
-## Core Support Skills
+- **Technical Support Specialist - Ethio Telecom** | September 2017 - September 2019 | Ethiopia
+- **Customer Support Agent - Clickworker** | June 2022 - September 2023 | Remote / Germany
+- **Customer Support Representative - Binance** | May 2024 - June 2024 | Remote
+- **Lecturer and Researcher - Wollo University** | October 2019 - June 2025 | Ethiopia
+- **Verified P2P Merchant | Payment, Dispute and Platform Support - OKX, Bitget, Binance, MEXC** | August 2022 - May 2026 | Remote
 
-- Customer Support
-- Technical Support
-- SaaS Support
-- Crypto Exchange Support
-- P2P Merchant Support
-- Fintech Support
-- Live Chat Support
-- Email Support
-- Ticket Handling
-- Troubleshooting
-- Bug Reporting
-- Escalation Handling
-- Knowledge Base Writing
-- Customer Education
-- Support Operations
+## Networking knowledge
 
----
+- IP addressing and TCP/IP
+- DNS, DHCP, and NAT
+- Routing and gateways
+- Wi-Fi and LAN troubleshooting
+- Latency investigation and device configuration
+- Authentication and access troubleshooting
+- Forward proxies, HTTP/HTTPS, SOCKS5, IP whitelisting, geo-targeting, rotating proxies, and sticky-session concepts
 
-## Tools & Platforms
+## Support tools
 
-Zendesk | Freshdesk | Intercom | HaoDesk | Slack | Discord | Telegram | Notion | Google Workspace | Microsoft Teams | TradingView | GitHub
+Zendesk, Freshdesk, Intercom, Help Scout, HaoDesk, HubSpot, Slack, Microsoft Teams, Google Workspace, and Postman.
 
----
+## Languages
 
-## Support Areas
+- English - Fluent
+- Amharic - Native
 
-- Account and login issues
-- Payment and billing support
-- Crypto deposits and withdrawals
-- P2P dispute handling
-- KYC and account verification
-- Technical troubleshooting
-- Bug documentation and escalation
-- Customer onboarding
-- Community support
-- Help center documentation
+## Education and certifications
 
----
+- MSc in Software Engineering - Addis Ababa Science and Technology University, 2021
+- BSc in Information Technology - Hawassa University, 2017
+- HubSpot Customer Service Software Certification, 2025
+- Zendesk Customer Service Training, 2025
+- Freshdesk Academy Customer Support Basics, 2026
+- CCNA 1: Network Fundamentals, 2019
+- CCNA 2: Routing Protocols and Concepts, 2021
 
-## Featured Support Portfolio
+## Selected work
 
-### Support Portfolio Website
+- [Technical Support Portfolio](https://surafelgetachew.com/) - support experience, work samples, troubleshooting workflows, and documentation
+- [API Support Lab](https://github.com/SurafelGetachewT/crypto-exchange-api-support-lab) - reproducible support cases and Postman-based technical support evidence
 
-A professional website presenting my customer support and technical support profile, including my experience, tools, ticket examples, troubleshooting workflows, crypto/P2P support knowledge, and support documentation projects.
+## Connect
 
-### Customer Support Ticket Examples
-
-Sample customer support responses for login issues, payment delays, refund requests, KYC verification delays, crypto deposits, withdrawal delays, P2P disputes, and angry customer situations.
-
-### Knowledge Base Articles
-
-User-friendly help center articles written for SaaS, fintech, crypto, and digital platform users.
-
-### Technical Support Workflows
-
-Step-by-step troubleshooting workflows for account issues, payment issues, technical bugs, crypto deposits, withdrawals, and escalation cases.
-
-### Crypto & P2P Support Case Studies
-
-Practical support scenarios related to P2P disputes, payment verification, wrong network deposits, suspicious transactions, and customer education.
-
----
-
-## Career Focus
-
-I am currently focused on remote roles in:
-
-- Customer Support
-- Technical Support
-- Product Support
-- SaaS Support
-- Crypto Support
-- Fintech Support
-- P2P Operations Support
-- Support Operations
-
----
-
-## Contact
-
-LinkedIn: https://www.linkedin.com/in/surafelgetachewtesfaye/
-GitHub: https://github.com/SurafelGetachewT  
-Portfolio Website: https://surafelgetachew.com/
+- [Portfolio](https://surafelgetachew.com/)
+- [LinkedIn](https://www.linkedin.com/in/surafelgetachewtesfaye/)
+- [Resume](https://surafelgetachew.com/resume/Surafel-Getachew-Resume.pdf)
